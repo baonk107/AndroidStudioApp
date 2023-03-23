@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book manager</string>
+    <string-array name="publisher">
+        <item>Giao duc</item>
+        <item>Khoa hoc xa hoi</item>
+        <item>Buu dien</item>
+        <item>Thong ke</item>
+    </string-array>
+</resources>
